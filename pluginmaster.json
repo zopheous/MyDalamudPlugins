@@ -1,0 +1,20 @@
+[
+    {
+      "Author": "Windmourn, Zopheous",
+      "Name": "SkipCutscene",
+      "InternalName": "SkipCutscene",
+      "AssemblyVersion": "1.2.2.3",
+      "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/zopheous/SkipCutscene",
+      "DalamudApiLevel": 10,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "CanUnloadAsync": false,
+      "LoadPriority": 0,
+      "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+      "AcceptsFeedback": true,
+      "DownloadLinkInstall": "https://github.com/zopheous/SkipCutscene/releases/download/v1.2.2.3-beta/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/zopheous/SkipCutscene/releases/download/v1.2.2.3-beta/latest.zip"
+    }
+  ]
